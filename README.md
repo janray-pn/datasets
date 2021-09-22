@@ -1,2 +1,2 @@
 # datasets
-Personal Use
+Note: for school/ personal use/ hobby
